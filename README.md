@@ -1,2 +1,2 @@
-# Machine-Learning-Assignments-And-Projects    In progress... 
+# Machine-Learning-Assignments-And-Projects   
 Machine learning projects using Octave and Python
